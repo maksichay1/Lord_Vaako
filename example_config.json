@@ -1,0 +1,9 @@
+{
+  "ADMIN_USER": "admin",
+  "ADMIN_PASS": "changeme",
+  "SECRET_KEY": "change_this_secret_key",
+  "DATA_DIR": "data",
+  "FILE_RETENTION_DAYS": 7,
+  "MAX_WORKERS": 8,
+  "USER_AGENT": "Mozilla/5.0 (compatible; HalykParser/1.0; +https://example.local)"
+}
